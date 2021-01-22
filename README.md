@@ -84,6 +84,7 @@ Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 ## References
   \[1\] Blumenstock, G., Lessmann, S., & Seow, H.-V. (2020). Deep learning for survival and competing
 risk modelling. *Journal of the Operational Research Society*. https://doi.org/10.1080/01605682.2020.1838960
+
   \[2\] Håvard Kvamme, Ørnulf Borgan, and Ida Scheel. Time-to-event prediction with neural networks and Cox regression. *Journal of Machine Learning Research*, 20(129):1–30, 2019. \[[paper](http://jmlr.org/papers/v20/18-424.html)\]
 
   \[3\] Jared L. Katzman, Uri Shaham, Alexander Cloninger, Jonathan Bates, Tingting Jiang, and Yuval Kluger. Deepsurv: personalized treatment recommender system using a Cox proportional hazards deep neural network. *BMC Medical Research Methodology*, 18(1), 2018. \[[paper](https://doi.org/10.1186/s12874-018-0482-1)\]
