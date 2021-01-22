@@ -24,9 +24,9 @@ mortgages from separate sources. The performance of these models is evaluated us
 discrimination metric, concordance index.
 
 ## Requirements
-The following package versions have been used to develop this work. Newer versions will likely work as well, older versions might not.
+The following package versions have been used to develop this work.
 ```
-Python 3.7.9
+python 3.7.9
 lifelines==0.25.4
 pandas==1.1.4
 pycox==0.2.1
@@ -40,6 +40,15 @@ tensorflow==1.15.0
 DRSA: 
 tensorflow==2.0.0
 ```
+## Data
+- [M1 (U.S mortgage data provided by International Financial Research)] (http://www.internationalfinancialresearch.org)
+- M2 (single-family US mortgage loans colected by provided by International Financial Research) <a href="#references">[1]</a>
+
+## Technologies
+* Tech 1 - version 1.0
+* Tech 2 - version 2.0
+* Tech 3 - version 3.0
+
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -71,3 +80,9 @@ Add here credits. Project inspired by..., based on...
 
 ## Contact
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
+
+## References
+
+  \[1\] Håvard Kvamme, Ørnulf Borgan, and Ida Scheel. Time-to-event prediction with neural networks and Cox regression. *Journal of Machine Learning Research*, 20(129):1–30, 2019. \[[paper](http://jmlr.org/papers/v20/18-424.html)\]
+
+  \[2\] Jared L. Katzman, Uri Shaham, Alexander Cloninger, Jonathan Bates, Tingting Jiang, and Yuval Kluger. Deepsurv: personalized treatment recommender system using a Cox proportional hazards deep neural network. *BMC Medical Research Methodology*, 18(1), 2018. \[[paper](https://doi.org/10.1186/s12874-018-0482-1)\]
