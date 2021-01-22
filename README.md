@@ -2,7 +2,7 @@
 > This repository contains the python implementation for the expirment part in the master thesis, and also the datasets the has been used, for replication purposes. 
 
 ## Table of contents
-* [General info](#general-info)
+* [Abstract](#abstract)
 * [Screenshots](#screenshots)
 * [Technologies](#technologies)
 * [Setup](#setup)
@@ -11,8 +11,17 @@
 * [Inspiration](#inspiration)
 * [Contact](#contact)
 
-## General info
-Add more general information about project. What the purpose of the project is? Motivation?
+## Abstract
+Survival analysis is a hotspot in statistical research for modelling time-to-event information
+with data censorship handling, which has been widely used in many applications such as
+clinical research, information system and other fields with survivorship bias. Many works
+have been proposed for survival analysis ranging from traditional statistic methods to machine
+learning and deep learning methods. This paper examines novel deep learning techniques for
+survival analysis in credit risk modelling context. After surveying through literature for deep
+learning survival analysis models in various domains and categorizing them, we evaluate the
+adequacy of six different models representing different categories, using two datasets of US
+mortgages from separate sources. The performance of these models is evaluated using the
+discrimination metric, concordance index.
 
 ## Requirements
 The following package versions have been used to develop this work. Newer versions will likely work as well, older versions might not.
