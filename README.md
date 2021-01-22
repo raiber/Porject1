@@ -42,7 +42,7 @@ tensorflow==2.0.0
 ```
 ## Data
 - [M1 (U.S mortgage data provided by International Financial Research)](http://www.internationalfinancialresearch.org)
-- M2 (single-family US mortgage loans colected by provided by International Financial Research) <a href="#references">[1]</a>
+- M2 (single-family US mortgage loans colected by Blumenstock et al., 2020 <a href="#references">[1]</a>).
 
 ## Technologies
 * Tech 1 - version 1.0
@@ -82,8 +82,8 @@ Add here credits. Project inspired by..., based on...
 Created by [@flynerdpl](https://www.flynerd.pl/) - feel free to contact me!
 
 ## References
-  \[1\] Blumenstock, G., Lessmann, S., & Seow, H.-V. (2020). Deep learning for survival and competing
-risk modelling. *Journal of the Operational Research Society*. https://doi.org/10.1080/01605682.2020.1838960
+  \[1\] Gabriel Blumenstock, Stefan Lessmann & Hsin-Vonn Seow (2020). Deep learning for survival and competing
+risk modelling. *Journal of the Operational Research Society*.  \[[paper](https://doi.org/10.1080/01605682.2020.1838960)\]
 
   \[2\] Håvard Kvamme, Ørnulf Borgan, and Ida Scheel. Time-to-event prediction with neural networks and Cox regression. *Journal of Machine Learning Research*, 20(129):1–30, 2019. \[[paper](http://jmlr.org/papers/v20/18-424.html)\]
 
