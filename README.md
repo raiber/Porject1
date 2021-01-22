@@ -41,7 +41,7 @@ DRSA:
 tensorflow==2.0.0
 ```
 ## Data
-- [M1 (U.S mortgage data provided by International Financial Research)] (http://www.internationalfinancialresearch.org)
+- [M1 (U.S mortgage data provided by International Financial Research)](http://www.internationalfinancialresearch.org)
 - M2 (single-family US mortgage loans colected by provided by International Financial Research) <a href="#references">[1]</a>
 
 ## Technologies
