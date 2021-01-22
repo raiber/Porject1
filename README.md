@@ -26,17 +26,19 @@ discrimination metric, concordance index.
 ## Requirements
 The following package versions have been used to develop this work. Newer versions will likely work as well, older versions might not.
 ```
-Python 3.6.8
+Python 3.7.9
+lifelines==0.25.4
+pandas==1.1.4
+pycox==0.2.1
+scikit-learn==0.24.1
+torch==1.7.0
+matplotlib==3.3.3
 
-tensorflow-gpu==2.0.0 (you may use regular tensorflow, tf 2.1 should be fine as well)
-pandas==0.24.2
-nltk==3.4.5
-scikit-learn==0.21.2
-statsmodels==0.10.2
-pytorch-pretrained-bert==0.6.2
-torch==1.3.1
-fastai==1.0.59
-beautifulsoup4==4.8.1
+DATE and Deephit:
+tensorflow==1.15.0
+
+DRSA: 
+tensorflow==2.0.0
 ```
 
 ## Technologies
