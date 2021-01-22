@@ -41,8 +41,11 @@ DRSA:
 tensorflow==2.0.0
 ```
 ## Data
+We consider the following datasets:
 - [M1 (U.S mortgage data provided by International Financial Research)](http://www.internationalfinancialresearch.org)
 - M2 (single-family US mortgage loans colected by Blumenstock et al., 2020 <a href="#references">[1]</a>).
+
+The [*datasets*](./datasets) directory contains M1 dataset (named as mortgage) and ten batches from M2 (named as data batches).
 
 ## Technologies
 * Tech 1 - version 1.0
