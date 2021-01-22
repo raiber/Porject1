@@ -1,5 +1,5 @@
-# Project Name
-> Here goes your awesome project description!
+# Deep Learning for Survival Analysis in Credit Risk Modelling: A Benchmark Study
+> This repository contains the python implementation for the expirment that has been held in the master thesis, and also the dataset the has been used for replication purposes. 
 
 ## Table of contents
 * [General info](#general-info)
